@@ -1,0 +1,64 @@
+body {
+    background-color: bisque;
+    font-size: 25px;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    width: 900px;
+    margin: 200px;
+    text-align: center;
+    border: 2px rebeccapurple;
+    border-radius:15px ;
+    text-decoration-color: #09b770;
+    color: rgb(197, 63, 15);
+
+
+
+
+
+
+
+
+
+}
+.quoteoutput{
+    width: 100 px;
+    margin: 30 px auto;
+    color: rgb(221, 61, 95);
+    
+    text-align: center;
+    text-shadow: 12mm;
+    border-radius: 20px;
+    border: 2px dashed rgb(197, 197, 54);
+    font-weight:70px ;
+    font-style: italic;
+    border-radius: 15px;
+    
+    
+
+}
+button{
+    width: 150px;
+    height: 50px;
+    background: transparent;
+    color: rgb(226, 169, 23);
+    border: 2px solid yellowgreen;
+    border-radius: 10px;
+    margin-right: 30px;
+    outline: none;
+    
+    font-size: x-large;
+    
+    font: bolder;
+
+
+
+}
+button:hover{
+
+    background: azure;
+    color: #2dc419;
+    font-weight: 700;
+    text-transform: capitalize;
+
+    
+
+}
